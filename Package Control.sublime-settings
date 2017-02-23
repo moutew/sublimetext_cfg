@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Console Wrap for js",
+		"EditorConfig",
+		"GitGutter",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-phpcs",
+		"Terminal"
+	]
+}
